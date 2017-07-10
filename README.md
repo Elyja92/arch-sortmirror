@@ -1,4 +1,4 @@
-# my-proot(Termux)
+# arch-sortmirror
 You can use "make" and "make install".  
      1	#!/bin/bash
      2	cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup  
